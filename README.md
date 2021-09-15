@@ -21,8 +21,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="Video Walkthrough1.gif" width=250><br>
-<img src="Video Walkthrough2.gif" width=250><br>
+<img src="Video Walkthrough.gif" width=250><br>
+
 ### Notes
 Had an issue where referencing image view cause nullpoint errors and instead had to directly reference ivPoster instead in multiple locations. 
 
